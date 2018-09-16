@@ -1,1 +1,1 @@
-# This is a vanilla homegrown implimentation of firebase authenication
+### This is a vanilla homegrown implimentation of firebase authentication
