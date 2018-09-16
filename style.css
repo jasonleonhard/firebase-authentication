@@ -1,0 +1,33 @@
+.container {
+  border: 1px solid lightgrey;
+  width: 450px;
+  height: 130px;
+  padding: 10px;
+}
+
+.btn {
+  color: white;
+  background: grey;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+.form {
+  width: 100%;
+  height: 150%;
+  width: 400px;
+  height: 20px;
+  padding: 10px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.none {
+  display: none;
+}
+
+.pad {
+  padding: 4px;
+}
