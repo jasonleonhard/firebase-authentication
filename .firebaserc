@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "staging": "authme-96bdc"
+  }
+}
